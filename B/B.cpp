@@ -5,7 +5,7 @@
 
 void b::print_b()
 {
-    std::cout << "Bzqsd\n";
+    std::cout << "B\n";
 
     c::print_c2();
 }
